@@ -2,8 +2,8 @@ public class Cliente {
     private int id;
     private String nome;
     private int idade;
-    private String CPF;
-    private String RG;
+    private String cpf;
+    private String rg;
 
     public int getId() {
         return id;
