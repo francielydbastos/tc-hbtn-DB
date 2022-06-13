@@ -29,19 +29,19 @@ public class Cliente {
         this.idade = idade;
     }
 
-    public String getCPF() {
-        return CPF;
+    public String getCpf() {
+        return cpf;
     }
 
-    public void setCPF(String CPF) {
-        this.CPF = CPF;
+    public void setCpf(String CPF) {
+        this.cpf = CPF;
     }
 
-    public String getRG() {
-        return RG;
+    public String getRg() {
+        return rg;
     }
 
-    public void setRG(String RG) {
-        this.RG = RG;
+    public void setRg(String RG) {
+        this.rg = RG;
     }
 }
