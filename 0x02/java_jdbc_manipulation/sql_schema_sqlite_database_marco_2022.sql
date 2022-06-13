@@ -1,0 +1,9 @@
+-- TABLE
+CREATE TABLE Cliente (id INTEGER NOT NULL, nome VARCHAR(255), idade INTEGER, cpf VARCHAR(255), rg VARCHAR(255), PRIMARY KEY ( id ));
+ 
+-- INDEX
+ 
+-- TRIGGER
+ 
+-- VIEW
+ 
